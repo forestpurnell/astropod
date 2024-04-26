@@ -1,13 +1,15 @@
 ---
-title: Demo Episode
-audioUrl: https://ia800505.us.archive.org/15/items/astropod/1%20-%20Trailer%20with%20BG%20%28enhanced%29.ogg
+title: Alabama Army Ammunition Plant
+audioUrl: https://archive.org/download/01-alabama-army-ammunition-plant/01-AlabamaArmyAmmunitionPlant.mp3
 pubDate: Sep 10 2022
-duration: 00:32
-size: 0.7
+duration: 04:01
+size: 2.6
 cover: ""
 explicit: false
 episode: 1
 season: 1
 episodeType: full
 ---
-This is an episode demo of Astropod. Here you can add the description of your episode.
+The Alabama Army Ammunition Plant (AAAP) covers 5,168 acres just east of the Coosa River north of Childersburg, Talladega County, Alabama. The U.S. Army terminated manufacturing operations in August 1945. The plant was in standby status until 1973, when it was declared excess property.
+
+Source: <https://semspub.epa.gov/work/04/11121411.pdf>
