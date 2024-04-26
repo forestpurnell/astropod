@@ -1,7 +1,7 @@
 ---
 title: Alabama Army Ammunition Plant
 audioUrl: https://archive.org/download/01-alabama-army-ammunition-plant/01-AlabamaArmyAmmunitionPlant.mp3
-pubDate: Sep 10 2022
+pubDate: 26 Apr 2024
 duration: 04:01
 size: 2.6
 cover: ""
