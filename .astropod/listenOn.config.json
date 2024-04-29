@@ -1,12 +1,12 @@
 {
-  "spotify": "",
-  "googlePodcast": "",
-  "applePodcast": "",
-  "easyPodcast": "",
   "amazonMusic": "",
-  "fountain": "",
-  "ivoox": "",
-  "pocketcasts": "",
+  "easyPodcast": "",
   "deezer": "",
-  "acastPodcasts": ""
+  "applePodcast": "https://podcasts.apple.com/us/podcast/superfund/id1743494736",
+  "ivoox": "",
+  "googlePodcast": "",
+  "acastPodcasts": "",
+  "fountain": "",
+  "spotify": "https://open.spotify.com/show/3B9l11gWhiI1sECf3WlZiO",
+  "pocketcasts": ""
 }
