@@ -6,8 +6,8 @@ duration: 4:01
 size: 2.6
 cover: ""
 explicit: false
-episode: ""
-season: ""
+episode: 0
+season: 0
 episodeType: full
 ---
 The Alabama Army Ammunition Plant (AAAP) covers 5,168 acres just east of the Coosa River north of Childersburg, Talladega County, Alabama. The U.S. Army terminated manufacturing operations in August 1945. The plant was in standby status until 1973, when it was declared excess property.
